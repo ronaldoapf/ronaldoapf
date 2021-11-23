@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on eNe Soluções
+- 🔭 I’m currently working on [eNe Soluções][eNeSolucoes]
 - 🌱 I’m currently trying to learn about everything 
 - 👯 I’m looking to collaborate on my work team
 - 🤔 I’m looking to help in everything that I can
@@ -13,8 +13,6 @@ Let's keep in touch
 [![Instagram](https://img.shields.io/badge/-instagram-8a3ab9?style=flat-square&logo=instagram)][instagram]
 [![Twitter](https://img.shields.io/badge/-twitter-000000?style=flat-square&logo=twitter)][twitter]
 
-<br />
-
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I use daily:
@@ -22,7 +20,6 @@ These are some of the technologies and tools that I use daily:
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
-![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,3 +47,4 @@ These are some of the technologies and tools that I use daily:
 [twitter]: https://twitter.com/naldinhodido
 [instagram]: https://instagram.com/ronaldoapf
 [linkedin]: https://linkedin.com/in/ronaldoapf
+[eNeSolucoes]: https://www.enesolucoes.com.br
