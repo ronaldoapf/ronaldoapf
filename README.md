@@ -34,6 +34,7 @@ These are some of the technologies and tools that I use daily:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira)
 ![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=PHP)
 
 **Knowledge**
 
