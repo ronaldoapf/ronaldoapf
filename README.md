@@ -9,10 +9,11 @@ Here are some ideas to get you started:
 
 Let's keep in touch
 
-[<img align="left" alt="My Website Link" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="naldinhodido | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ronaldoapf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ronaldoapf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+![Linkedln](https://img.shields.io/badge/-linkedin-000000?style=flat-square&logo=linkedin)
 
 <br />
 
