@@ -14,6 +14,8 @@ Let's keep in touch
 [<img align="left" alt="ronaldoapf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ![Linkedln](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin)
+[![Instagram](https://img.shields.io/badge/-instagram-8a3ab9?style=flat-square&logo=instagram)](https://instagram.com/ronaldoapf)
+8a3ab9
 
 <br />
 
