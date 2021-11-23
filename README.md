@@ -28,12 +28,12 @@ These are some of the technologies and tools that I use daily:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)]
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira)]
-![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord)]
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira)
+![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord)
 
 **Knowledge**
 
