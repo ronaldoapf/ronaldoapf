@@ -13,7 +13,7 @@ Let's keep in touch
 [<img align="left" alt="ronaldoapf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ronaldoapf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-![Linkedln](https://img.shields.io/badge/-linkedin-000000?style=flat-square&logo=linkedin)
+![Linkedln](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin)
 
 <br />
 
