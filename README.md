@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 Let's keep in touch
 
-[![Linkedln](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin)][linkedin]
-[![Instagram](https://img.shields.io/badge/-instagram-8a3ab9?style=flat-square&logo=instagram)][instagram]
-[![Twitter](https://img.shields.io/badge/-twitter-000000?style=flat-square&logo=twitter)][twitter]
+[![Linkedln](https://img.shields.io/badge/-linkedin-05122A?style=flat-square&logo=linkedin)][linkedin]
+[![Instagram](https://img.shields.io/badge/-instagram-05122A?style=flat-square&logo=instagram)][instagram]
+[![Twitter](https://img.shields.io/badge/-twitter-05122A?style=flat-square&logo=twitter)][twitter]
 
 ## ⚡ Technologies
 
