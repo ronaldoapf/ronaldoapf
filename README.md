@@ -2,7 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [eNe Soluções][eNeSolucoes]
 - 🌱 I’m currently trying to learn about everything 
 - 👯 I’m looking to collaborate on my work team
 - 🤔 I’m looking to help in everything that I can
