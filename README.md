@@ -10,7 +10,6 @@ Let's keep in touch
 
 [![Linkedln](https://img.shields.io/badge/-linkedin-05122A?style=flat-square&logo=linkedin)][linkedin]
 [![Instagram](https://img.shields.io/badge/-instagram-05122A?style=flat-square&logo=instagram)][instagram]
-[![Twitter](https://img.shields.io/badge/-twitter-05122A?style=flat-square&logo=twitter)][twitter]
 
 ## ⚡ Technologies
 
